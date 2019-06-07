@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="src"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/mperusso/Área de trabalho/src/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mperusso/Área\ de\ trabalho/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mperusso/Área\ de\ trabalho/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mperusso/Área\ de\ trabalho/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mperusso/Área\ de\ trabalho/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/mperusso/Área de trabalho/src/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mperusso/Área\ de\ trabalho/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mperusso/Área\ de\ trabalho/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mperusso/Área\ de\ trabalho/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mperusso/Área\ de\ trabalho/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/mperusso/Área de trabalho/src/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mperusso/Área\ de\ trabalho/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mperusso/Área\ de\ trabalho/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mperusso/Área\ de\ trabalho/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mperusso/Área\ de\ trabalho/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="src">
+				<Option output="/home/mperusso/Área de trabalho/src/cmake-build-debug/src" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mperusso/Área de trabalho/src/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/mperusso/Área de trabalho/src/."/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mperusso/Área\ de\ trabalho/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 src"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mperusso/Área\ de\ trabalho/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mperusso/Área\ de\ trabalho/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mperusso/Área\ de\ trabalho/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="src/fast">
+				<Option output="/home/mperusso/Área de trabalho/src/cmake-build-debug/src" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mperusso/Área de trabalho/src/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/mperusso/Área de trabalho/src/."/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mperusso/Área\ de\ trabalho/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 src/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mperusso/Área\ de\ trabalho/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mperusso/Área\ de\ trabalho/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mperusso/Área\ de\ trabalho/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/mperusso/Área de trabalho/src/asm.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/bio.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/bootmain.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/buf.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/cat.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/console.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/date.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/defs.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/echo.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/elf.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/exec.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/fcntl.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/file.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/file.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/forktest.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/fs.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/fs.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/grep.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/ide.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/init.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/ioapic.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/kalloc.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/kbd.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/kbd.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/kill.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/lapic.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/ln.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/log.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/ls.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/main.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/memide.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/memlayout.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/mkdir.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/mkfs.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/mmu.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/mp.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/mp.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/param.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/picirq.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/pipe.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/printf.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/proc.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/proc.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/rm.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/sh.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/spinlock.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/spinlock.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/stat.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/stressfs.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/string.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/syscall.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/syscall.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/sysfile.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/sysproc.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/teste.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/timer.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/trap.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/traps.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/types.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/uart.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/ulib.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/umalloc.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/user.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/usertests.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/vm.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/wc.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/x86.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/zombie.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/mperusso/Área de trabalho/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
